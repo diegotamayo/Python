@@ -1,2 +1,2 @@
 # Python
-Python programs
+Python program to show main results about Coronavirus in Ecuador.
